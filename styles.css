@@ -277,3 +277,14 @@ em { font-family: var(--serif); font-style: italic; font-weight: 400; color: var
   .section { padding: 90px 0; }
   .contact-inner { padding: 3.5rem 1.5rem; }
 }
+
+.role-client { font-size: .82rem; color: var(--muted); }
+.brand-mark { font-size: .95rem; letter-spacing: -.02em; }
+.avatar { font-size: 1.4rem; }
+.expertise-grid { grid-template-columns: repeat(3, 1fr); }
+.exp-card { padding: 1.75rem; }
+.edu { margin-top: 1.5rem; padding: 1.5rem 1.6rem; border-radius: var(--radius); background: var(--tint); }
+.edu p { margin-top: .4rem; color: var(--ink-2); }
+.edu strong { color: var(--ink); }
+@media (max-width: 1000px) { .expertise-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 820px) { .expertise-grid { grid-template-columns: 1fr; } }
