@@ -1,4 +1,4 @@
-# Jay Avardhan - Portfolio Website
+# Jayavardhan - Portfolio Website
 
 A simple, modern, dark-themed portfolio site for an RPA Lead (UiPath / Power Automate).
 
@@ -7,7 +7,7 @@ A simple, modern, dark-themed portfolio site for an RPA Lead (UiPath / Power Aut
 - `index.html` - main page content (sections: Home, About, Skills, Experience, Projects, Certifications, Contact)
 - `styles.css` - all styling
 - `script.js` - typed-text effect, mobile menu, animated counters, contact form handler
-- `assets/resume/` - put your resume PDF here, named `Jay_Avardhan_Resume.pdf` (or update the link in `index.html`)
+- `assets/resume/` - put your resume PDF here, named `Jayavardhan_Resume.pdf` (or update the link in `index.html`)
 - `assets/images/` - put a profile photo / project screenshots here if you want to add them
 
 ## How to view it
@@ -23,7 +23,7 @@ Then visit http://localhost:8000
 
 ## What to customize
 
-1. **Resume**: drop your PDF into `assets/resume/Jay_Avardhan_Resume.pdf`
+1. **Resume**: drop your PDF into `assets/resume/Jayavardhan_Resume.pdf`
 2. **About section**: update bio, location, stats
 3. **Experience**: replace company names, dates, and bullet points with real ones
 4. **Projects**: replace placeholder projects with real automation projects you've built
